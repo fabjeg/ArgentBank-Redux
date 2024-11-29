@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ArgentBank-Redux/static/css/main.456ad3a7.css",
+    "main.js": "/ArgentBank-Redux/static/js/main.7dbbff8c.js",
+    "static/js/453.ac7a24ca.chunk.js": "/ArgentBank-Redux/static/js/453.ac7a24ca.chunk.js",
+    "static/media/bank-tree.webp": "/ArgentBank-Redux/static/media/bank-tree.efcfe5893d3a6be4299d.webp",
+    "static/media/icon-security.webp": "/ArgentBank-Redux/static/media/icon-security.eb4773b1f4741edf65ec.webp",
+    "static/media/argentBankLogo.webp": "/ArgentBank-Redux/static/media/argentBankLogo.9908b3a33a6e63b46eb3.webp",
+    "static/media/argentBank2.webp": "/ArgentBank-Redux/static/media/argentBank2.7ccacb51898469a60ae2.webp",
+    "static/media/icon-chat.webp": "/ArgentBank-Redux/static/media/icon-chat.9b6e371c36d6b66261a8.webp",
+    "static/media/icon-money.webp": "/ArgentBank-Redux/static/media/icon-money.b6b8c591021ae855e6be.webp",
+    "index.html": "/ArgentBank-Redux/index.html",
+    "main.456ad3a7.css.map": "/ArgentBank-Redux/static/css/main.456ad3a7.css.map",
+    "main.7dbbff8c.js.map": "/ArgentBank-Redux/static/js/main.7dbbff8c.js.map",
+    "453.ac7a24ca.chunk.js.map": "/ArgentBank-Redux/static/js/453.ac7a24ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.456ad3a7.css",
+    "static/js/main.7dbbff8c.js"
+  ]
+}

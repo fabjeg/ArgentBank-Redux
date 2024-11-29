@@ -2,6 +2,7 @@
   "name": "argent-bank-api",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://fabjeg.github.io/ArgentBank-Redux",
   "description": "Project #10 - Argent Bank",
   "keywords": [],
   "author": "",
@@ -17,15 +18,19 @@
     "mongodb": "^6.9.0",
     "mongoose": "^5.9.21",
     "morgan": "^1.10.0",
+    "react-deploy": "^0.0.15",
     "swagger-ui-express": "^4.1.4",
     "yamljs": "^0.3.0"
   },
   "scripts": {
     "dev:server": "nodemon ./server.js",
     "populate-db": "node ./server/scripts/populateDatabase.js",
-    "server": "node ./server/server.js"
+    "server": "node ./server/server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "nodemon": "^2.0.4"
   }
 }

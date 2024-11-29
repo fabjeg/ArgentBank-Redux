@@ -1,0 +1,49 @@
+.entries-anim {
+  opacity: 0;
+  animation: descend 2s ease forwards;
+}
+
+@keyframes descend {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.callapse-anim {
+  opacity: 0;
+  animation: descend 2s ease forwards;
+}
+.container-p {
+  opacity: 0;
+  animation: descend 2s ease forwards;
+}
+
+@keyframes descend {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.anim-form {
+  opacity: 0;
+  animation: descend 1s ease forwards;
+}
+
+@keyframes descend {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}

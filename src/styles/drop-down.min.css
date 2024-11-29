@@ -1,0 +1,12 @@
+.category {
+  font-size: 17px;
+  border: none;
+  color: #000;
+  outline: 0;
+}
+.container-category {
+  position: relative;
+  bottom: 46px;
+  left: 10%;
+  width: 9%;
+}
